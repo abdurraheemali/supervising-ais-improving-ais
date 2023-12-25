@@ -73,7 +73,7 @@ pip install -r requirements.txt
 python download_models.py
 ```
 
-For models the Llama-2, you will need to request access on the Meta website.
+For the Llama-2 models, you will need to request access on the Meta website.
 
 ## Running
 
